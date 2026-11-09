@@ -10,11 +10,11 @@
 6. Update the relevant index. Feature the strongest complete case studies in the main README.
 7. Propose the change in a pull request and inspect the full diff before merging.
 
-## First content to collect privately
+## Collect future content privately
 
-For the first Codio evaluation, collect the assessment title, subject, evaluation date, exact result and scale, original instructor comments, and a brief explanation of your own work. Check permission and redact private details before placing any version in GitHub.
+For each new Codio evaluation, collect the assessment title, subject, evaluation date, exact result and scale, original instructor comments, and a brief explanation of your own work. Check permission and redact private details before placing any version in GitHub.
 
-Until this evidence is supplied, keep results and comments as explicit placeholders. Do not reuse illustrative grades from earlier discussions.
+If evidence is missing for a new entry, keep results and comments as explicit placeholders. Do not reuse illustrative grades from earlier discussions.
 
 ## Quality bar
 

@@ -1,13 +1,11 @@
-# Projects
+# Selected Projects
 
-Technical case studies will be listed here once real work is supplied and reviewed for public sharing.
+These case-study summaries connect assessed work to authentic instructor evaluations.
 
-| Project | Problem and personal contribution | Evidence | Status |
-| --- | --- | --- | --- |
-| Awaiting first case study | To be documented from actual work | Not supplied | No project published |
+| Case study | Engineering focus |
+| --- | --- |
+| [Titanic — Ship Data CLI](titanic/README.md) | CLI design, Python data processing, visualization, and validation |
+| [Movie Project — From CLI to Persistent Storage](movie-project/README.md) | Search algorithms, persistence, separation of concerns, and interaction design |
+| [Branching Out — Git Workflow & Python Filtering](branching-out/README.md) | Version control, pull requests, Python filtering, and input validation |
 
-## Add a project
-
-Copy [the case-study template](PROJECT-TEMPLATE.md) to a new folder such as `projects/descriptive-project-name/README.md`. Add source code only when publication is permitted. A summary can stand alone when code must remain private.
-
-Feature a small selection of strong, complete case studies in the main README. Label coursework, independent extensions, and team contributions accurately.
+Each page states its evidence basis and outstanding verification. The [assessment index](../assessments/README.md) includes further Python and frontend exercises. Use the [case-study template](PROJECT-TEMPLATE.md) for future work.

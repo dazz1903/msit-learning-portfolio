@@ -1,17 +1,26 @@
 # Instructor Feedback & Development
 
-**Status:** Awaiting authentic Codio instructor evaluations. No grades, quotations, averages, or performance trends are published.
+Thirteen authentic general evaluations were viewed directly in Codio on 9 November 2026. [Assessment index and individual records](../assessments/README.md).
 
-This page will connect evaluation evidence to technical growth.
+## Strengths reported by the instructor
 
-| Assessment | Evaluation type and result | Authentic feedback | Response and verification |
-| --- | --- | --- | --- |
-| Not supplied | Not supplied | Not supplied | Not yet documented |
+| Theme | Supporting evaluations |
+| --- | --- |
+| Clear naming and modular design | [Titanic](evaluations/titanic.md), [Melting Snowman](evaluations/melting-snowman.md), [Romeo And Juliet](evaluations/romeo-and-juliet.md) |
+| Persistence and separation of concerns | [Movie Project - Phase 2](evaluations/movie-project-phase-2.md) |
+| Additional functionality and validation | [Movie Project Part 1](evaluations/movie-project-part-1.md), [Help Your Teacher](evaluations/help-your-teacher.md) |
+| Feature branches and pull-request workflow | [Branching Out New](evaluations/branching-out-new.md) |
+| HTML and responsive CSS | [Home Solutions](evaluations/home-solutions.md), [QR Card Wizard](evaluations/qr-card-wizard.md) |
 
-## Recording evaluations
+## Development priorities
 
-Use the [evaluation template](evaluations/EVALUATION-TEMPLATE.md). Preserve grades in their original scale and distinguish instructor comments from automated checks. Mark paraphrases and translations explicitly; use quotation marks only for exact, approved excerpts.
+- Preserve behavior when refactoring; add checks for the prime-pair regression identified in [Refactoring Basics](evaluations/refactoring-basics.md).
+- Handle empty states, cancellation, duplicate names, and duplicate titles reliably.
+- Reduce repeated logic and keep functions focused on a single responsibility.
+- Apply consistent JSON encoding, documentation, and data-field handling.
 
-Summaries should retain the meaning of constructive feedback. Connect each claimed improvement to a change or evidence rather than treating praise alone as proof of a skill.
+These priorities summarize instructor recommendations. No claim is made that the fixes have already been implemented. Future updates should connect each improvement to a permitted change and verification artifact.
 
-If statistics are added later, document the included assessments, dates, scales, and calculation method. Do not average incompatible grading systems or imply selected results represent the full course.
+## Interpretation and provenance
+
+Grades retain their displayed values without scale conversion. No average or trend is inferred across these selected assessments. Paraphrases are labelled and exact excerpts remain distinct. Instructor identities, private platform links, prompts, solutions, and raw exports are omitted. This is a personal portfolio, not an official transcript or provider endorsement.
